@@ -1,0 +1,72 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+h2{
+    font-size: 16px;
+    margin: 0px;
+    color: black;
+    background-color: lightblue;
+    padding: 7px;
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3{
+    font-size: 23px;
+    margin: 0px;
+    background-color: black;
+    color: white;
+    font-family: "Lily Script One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+#yoo{
+    border-radius: 10px;
+    width: 13%;
+}
+#start{
+    font-size: 18px;
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+input{
+    width: 30%;
+    background-color: pink;
+    border-radius: 5px;
+    border-color: blueviolet;
+}
+#status, #number_of_objects{
+    font-size: 18px;
+    border-color: black;
+    border-width: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+canvas{
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
